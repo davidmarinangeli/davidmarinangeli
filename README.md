@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm David, an italian Android developer, currently working in Milan in Flowe, a fintech startup! 🏦
+I'm David, an italian Android developer, currently working in Milan in [Flowe](https://www.flowe.com/) 🌱, a fintech startup! 🏦
 
 I developed apps with **Kotlin**, Java, React Native and also Flutter but, right now, I'm focusing on learning every secret of Android's world 📱.
 
