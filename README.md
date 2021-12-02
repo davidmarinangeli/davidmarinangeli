@@ -10,7 +10,7 @@ Among my repositories you can find:
 - 🦜 Macaw: an Android app that I'm developing to become familiar with **Jepack Compose**, the new declarative UI framework from Google.
 - 🍬 Sweet Bank: an Android app I developed using Android Jetpack, Dagger, Retrofit, Moshi, Motion Layout, MVVM design pattern and much more
 - 🌼 Yellow: a Flutter app that fetches data from Starling Bank's APIs
-- ☕️ Coffee Advisor: an old webhook for a Google Assistant app that I released back in the days. It's in Node.js and uses the official libraries of Actions On Google (v2).
+- ☕️ Coffee Advisor: an old webhook for a Google Assistant app that I released back in the university days. It's in Node.js and uses the official libraries of Actions On Google (v2).
 
 You can find my website, email and more info about me in the profile section at left. ✌🏻
 
