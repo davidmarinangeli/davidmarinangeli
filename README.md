@@ -7,7 +7,7 @@ I developed apps with **Kotlin**, Java, React Native and also Flutter but, right
 I'm learning Jetpack Compose, **Android Jetpack**, Dagger, Flutter, **Material Components** and much more. 🌳 
 
 Among my repositories you can find:
-- 🦜 Macaw: an Android app that I'm developing to become familiar with **Jepack Compose**, the new declarative UI framework from Google.
+- 🦜 Macaw and 🍟 Foodie : two Android apps that I'm developing to become familiar with **Jepack Compose**, the new declarative UI framework from Google, and **Material You**, the new design kit and guideline for Android apps.
 - 🍬 Sweet Bank: an Android app I developed using Android Jetpack, Dagger, Retrofit, Moshi, Motion Layout, MVVM design pattern and much more
 - 🌼 Yellow: a Flutter app that fetches data from Starling Bank's APIs
 - ☕️ Coffee Advisor: an old webhook for a Google Assistant app that I released back in the university days. It's in Node.js and uses the official libraries of Actions On Google (v2).
