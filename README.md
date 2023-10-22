@@ -4,9 +4,11 @@ I'm David, an italian Android developer, currently working in Milan in [Flowe](h
 
 I developed apps with **Kotlin**, Java, React Native and also Flutter but, right now, I'm focusing on learning every secret of Android's world 📱.
 
-I'm learning Jetpack Compose, **Android Jetpack**, Dagger, Flutter, **Material Components** and much more. 🌳 
+I'm learning Jetpack Compose, **Android Jetpack** suite, Dagger, Flutter, **Material Components** and much more. 🌳 
 
-Among my repositories you can find:
+Currently focused on 🏎️ **Guess The Car** 🏎️, an Android game made with Jetpack Compose: the repo is still private.
+ 
+Among my repositories you can find some old project:
 - 🦜 Macaw and 🍟 Foodie : two Android apps that I'm developing to become familiar with **Jepack Compose**, the new declarative UI framework from Google, and **Material You**, the new design kit and guideline for Android apps.
 - 🍬 Sweet Bank: an Android app I developed using Android Jetpack, Dagger, Retrofit, Moshi, Motion Layout, MVVM design pattern and much more
 - 🌼 Yellow: a Flutter app that fetches data from Starling Bank's APIs
