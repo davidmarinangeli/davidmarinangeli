@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm David, an italian Android developer, currently working in Milan in [Flowe](https://www.flowe.com/) 🌱, a fintech startup! 🏦
+I'm David, an italian Android Enginner, currently working in [Technogym](https://www.technogym.com/), Cesena.
 
 I developed apps with **Kotlin**, Java, React Native and also Flutter but, right now, I'm focusing on learning every secret of Android's world 📱.
 
-I'm learning Jetpack Compose, **Android Jetpack** suite, Dagger, Flutter, **Material Components** and much more. 🌳 
+I mainly develop in Jetpack Compose, using the **Android Jetpack** suite, Dagger, Flutter, **Material Components** and much more. 🌳 
 
 Currently focused on 🏎️ **Guess The Car** 🏎️, an Android game made with Jetpack Compose: the repo is still private.
  
